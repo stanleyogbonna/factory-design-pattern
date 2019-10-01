@@ -4,7 +4,7 @@ let truckFactory = require('./factory.js');
 
 let car = carFactory.createVehicle({
     carType: 'car',
-    color: 'Black'
+    color: 'Red'
 });
 
 
