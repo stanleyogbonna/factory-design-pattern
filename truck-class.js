@@ -7,5 +7,4 @@ class Truck {
         this.color = options.color || "blue";
     }
 }
-console.log('new file');
 module.exports = Truck;
